@@ -1,6 +1,6 @@
 # Awesome Puzzle Game Guides
 
-A curated collection of free walkthrough guides for popular mobile puzzle games. All guides include video solutions and step-by-step tips.
+A curated collection of free walkthrough guides and useful tools for mobile games and productivity.
 
 ## 🎮 Game Guides
 
@@ -9,25 +9,38 @@ Connect sand paths to complete beautiful patterns. 183 challenging levels.
 - 🌐 **Guide**: [Sand Loop Guide](https://www.sandloopguide.org) - Video walkthroughs for all 183 levels
 - 📱 **Download**: [App Store](https://apps.apple.com/app/id6504375498) | [Google Play](https://play.google.com/store/apps/details?id=com.camel.sandloop)
 
-### Pixel Flow (如果你有其他项目)
-- 🌐 **Guide**: [Your Link Here]
-- 📱 **Download**: [App Store] | [Google Play]
+### Pixel Flow
+Another addictive puzzle game with colorful flow mechanics.
+- 🌐 **Guide**: [Pixel Flow Level](https://pixel-flow-level.org) - Complete level solutions
+
+### Rope Escape Master
+Another addictive puzzle game with colorful flow mechanics.
+- 🌐 **Guide**: [Rope Escape Master](https://ropeescapemaster.org) - Complete level solutions
+
+## 🛠️ Useful Tools
+
+### Play M3U8
+Online M3U8 video player - play HLS streams directly in browser.
+- 🌐 **Website**: [Play M3U8](https://playm3u8.org)
+
+### Easy OCR
+Free online OCR tool - extract text from images instantly.
+- 🌐 **Website**: [Easy OCR](https://easyocr.org)
 
 ## ✨ Features
 
-- ✅ 100% Free walkthroughs
-- ✅ Video solutions for every level
-- ✅ Mobile-friendly guides
+- ✅ 100% Free to use
+- ✅ No registration required
+- ✅ Mobile-friendly
 - ✅ Multi-language support
-- ✅ No ads interrupting gameplay tips
 
 ## 🤝 Contributing
 
-Know a great puzzle game that needs a guide? Open an issue or submit a PR!
+Know a great tool or game guide? Open an issue or submit a PR!
 
 ## 📜 License
 
-MIT License - Feel free to share and contribute.
+MIT License
 
 ---
 
