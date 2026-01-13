@@ -14,7 +14,7 @@ Another addictive puzzle game with colorful flow mechanics.
 - 🌐 **Guide**: [Pixel Flow Level](https://pixel-flow-level.org) - Complete level solutions
 
 ### Rope Escape Master
-Another addictive puzzle game with colorful flow mechanics.
+Cut the rope strategically to help characters escape. Brain-teasing physics puzzles.
 - 🌐 **Guide**: [Rope Escape Master](https://ropeescapemaster.org) - Complete level solutions
 
 ## 🛠️ Useful Tools
