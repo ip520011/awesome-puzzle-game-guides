@@ -1,0 +1,1 @@
+# awesome-puzzle-game-guides
